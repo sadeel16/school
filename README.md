@@ -1,3 +1,5 @@
-# y2startercode
+# personal project
 
-Starter code for the group project in WeCode y2 web development.
+sadeel's personal project
+
+
